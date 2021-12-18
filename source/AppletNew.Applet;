@@ -1,0 +1,14 @@
+import java.applet.Applet;
+import java.awt.TextField;
+
+ 
+
+public class AppletNew extends Applet{
+    
+    TextField t1=new TextField();
+    TextField t2=new TextField();
+    TextField t3=new TextField();
+
+ 
+
+}
